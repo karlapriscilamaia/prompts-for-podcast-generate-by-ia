@@ -34,7 +34,8 @@ Utilizei os prompts dentro do link do `Notion` fornecido na parte de `Materiais`
 - 🤖 2. Utilizei os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Utilizei os prompts de artes no `Copilot`
 
-
+https://drive.google.com/file/d/1zwfl5BMfUSgTNLmMxCjHTjdO_x5Fmvwz/view?usp=drive_link
+https://drive.google.com/file/d/18rpB95rhvIXVrV0UvtxL9oxhW8_kLMlb/view?usp=drive_link
 
 ---
 
