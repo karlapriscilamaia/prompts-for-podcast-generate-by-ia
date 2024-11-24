@@ -35,7 +35,7 @@ Utilizei os prompts dentro do link do `Notion` fornecido na parte de `Materiais`
 - 🤖 3. Utilizei os prompts de artes no `Copilot`
 
 
-https://www.notion.so/E-se-a-Bela-fosse-Cientista-1488c82ca466804da229ffbe459d670b
+
 ---
 
 ⌨️ com 💜 por [Karla Priscila}
